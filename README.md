@@ -7,7 +7,7 @@
 
 **State-of-the-art Convolutional Neural Network for Pet Image Classification with Deep Visual Analytics**
 
-![Feature Maps](results/feature_map.png)
+![Feature Maps](FurVision/results/feature_map.png)
 
 ## 🚀 Key Features
 - **Smart Augmentation**: Real-time image transformations (shear/zoom/flip)
